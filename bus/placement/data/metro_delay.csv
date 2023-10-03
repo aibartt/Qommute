@@ -1,0 +1,21 @@
+,bus_stations,busiest_line,predicted_delay
+0,Sunset Park (West),N,5
+1,Fort Wadsworth,S,6
+2,Bensonhurst,D,4
+3,Woodhaven,2,3
+4,Port Richmond,5,3
+5,Mariner’s Harbor-Arlington-Graniteville,S,6
+6,Annadale-Huguenot-Prince’s Bay-Woodrow,S,6
+7,Coney Island-Sea Gate,F,4
+8,Rosedale,L,5
+9,Grasmere-Arrochar-South Beach-Dongan Hills,S,6
+10,Howard Beach-Lindenwood,A,4
+11,West New Brighton-Silver Lake-Grymes Hill,S,6
+12,Gravesend (South),F,4
+13,College Point,7,3
+14,Bath Beach,B,4
+15,Jamaica,4,3
+16,Prospect Park,6,3
+17,East New York (North),A,4
+18,Arden Heights-Rossville,6,3
+19,Brownsville,3,3
